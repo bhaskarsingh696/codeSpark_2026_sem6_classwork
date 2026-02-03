@@ -16,8 +16,8 @@ completed during **Semester 6 (Web Technology)** as part of **CodeSpark 2026**.
 
 ## 🛠️ Technologies Used
 - HTML5
-- CSS3
-- JavaScript
+- CSS3 (later on )
+- JavaScript (later on ) 
 - (Later additions: PHP / MySQL if applicable)
 
 ---
